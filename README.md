@@ -1,5 +1,8 @@
 # study
 공부 기록 남깁니다.
+https://jm4488.tistory.com/
+
+깃허브에는 나중에 정리를...
 
 ## [종류]
 1. License
